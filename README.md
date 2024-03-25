@@ -3,7 +3,7 @@
 
 <iframe
   src="assets/recipe_heatmap.html"
-  width="500"
-  height="300"
+  width="700"
+  height="500"
   frameborder="5"
 ></iframe>
