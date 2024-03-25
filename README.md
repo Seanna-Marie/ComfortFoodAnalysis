@@ -4,7 +4,7 @@
   <title><i>Comfort Food Analysis</i></title>
  </head>
  <body>
-  <h1><b>Comfort Food Analysis</b></h1>4
+  <h1><b>Comfort Food Analysis</b></h1>
     <p><b>Created By:</b> <i>Seanna Pierce</i></p>
   <h2>Introduction</h2>
     <p>Insert intro here</p>
@@ -13,6 +13,7 @@
       width="700"
       height="500"
       frameborder="0"
+      style="background-color: black;"
     ></iframe>
  </body>
 </html>
