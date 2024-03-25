@@ -1,4 +1,4 @@
-# ComfortFoodAnalysis
+title: [Comfort Food Analysis]
 
 
 <iframe
