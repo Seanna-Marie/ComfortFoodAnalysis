@@ -1,9 +1,9 @@
-title: [Comfort Food Analysis]
+# ComfortFoodAnalysis
 
 
 <iframe
   src="assets/recipe_heatmap.html"
-  width="800"
-  height="600"
-  frameborder="0"
+  width="500"
+  height="300"
+  frameborder="5"
 ></iframe>
