@@ -1,21 +1,13 @@
+# Comfort Food Analysis
 
-<html>
- <head>
-  <title><i>Comfort Food Analysis</i></title>
- </head>
- <body>
-  <h1><b>Comfort Food Analysis</b></h1>
-    <p><b>Created By:</b> <i>Seanna Pierce</i></p>
-  <h2>Introduction</h2>
-    <p>Insert intro here</p>
-    <iframe
-      src="assets/recipe_heatmap.html"
-      width="700"
-      height="500"
-      frameborder="0"
-      style="background-color: black;"
-    ></iframe>
- </body>
-</html>
-
-
+  **Created By:** *Seanna Pierce*
+    ##Introduction
+      Insert intro here
+  <iframe
+    src="assets/recipe_heatmap.html"
+    width="700"
+    height="500"
+    frameborder="0"
+    style="background-color: black;"
+  ></iframe>
+  
