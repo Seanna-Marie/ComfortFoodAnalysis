@@ -1,3 +1,38 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+/* main.scss */
+
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Variables
+$pink: #FFC0CB;
+
+// Main styles
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $pink;
+}
+
+a {
+  color: $pink;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* You can add more styles as per your need */
